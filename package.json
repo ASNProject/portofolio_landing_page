@@ -1,0 +1,14 @@
+{
+  "name": "portofolio_landing_page",
+  "version": "1.0.0",
+  "description": "my portofolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arief Setyo Nugroho",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
